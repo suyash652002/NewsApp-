@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Winnie Hsu",
+            "title": "European Bonds and Stocks Gain on Rate-Cut Bets: Markets Wrap - Yahoo Finance",
+            "description": "(Bloomberg) -- European stocks gained and bond yields across the euro region fell on Wednesday as worsening economic data and slowing inflation underscored...",
+            "url": "https://finance.yahoo.com/news/asia-stocks-track-wall-street-223104125.html",
+            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/d78a4b655e5928e5441d8c27916d4283",
+            "publishedAt": "2023-12-20T08:20:49Z",
+            "content": "(Bloomberg) -- European stocks gained and bond yields across the euro region fell on Wednesday as worsening economic data and slowing inflation underscored expectations for interest-rate cuts next ye… [+5189 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "US and China remain top credit ratings to watch in 2024 - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/us-china-remain-top-credit-ratings-watch-2024-2023-12-20/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-20T07:34:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Israel battles Hamas on streets of Gaza city as UN delays vote again - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/israel-battles-hamas-streets-gaza-city-un-delays-vote-again-2023-12-20/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-20T07:30:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "France passes tough immigration bill amid Macron party rebellion - Al Jazeera English",
+            "description": "The new legislation includes amendments on residency and citizenship that won the approval of the far right.",
+            "url": "https://www.aljazeera.com/news/2023/12/20/france-passes-tough-immigration-bill-amid-macron-party-rebellion",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-12-19T223102Z_202529683_RC2M05AP23E7_RTRMADP_3_FRANCE-MIGRATION-1703050895.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-12-20T06:04:35Z",
+            "content": "The French parliament has passed by a wide margin an immigration bill backed by President Emmanuel Macron after a rebellion within his party over the toughened-up legislation that had secured the end… [+2768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        }
+    ]
+}
